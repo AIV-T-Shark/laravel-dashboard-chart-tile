@@ -20,7 +20,7 @@
     "require": {
         "php": "^7.4|^8.0",
         "consoletvs/charts": "^6.6.0",
-        "spatie/laravel-dashboard": "^2.1.4"
+        "spatie/laravel-dashboard": "^3.0.2"
     },
     "require-dev": {
         "mockery/mockery": "^1.4",
